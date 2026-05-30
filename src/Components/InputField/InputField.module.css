@@ -1,0 +1,16 @@
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 16px;
+  
+
+}
+
+input {
+  padding: 10px 12px;
+  border: 1px solid #dfe3e8;
+  border-radius: 6px;
+  outline: none;
+background: #f5f7fb;
+}
