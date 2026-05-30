@@ -4,8 +4,7 @@ This project is a **pixel-perfect implementation** of a billing and checkout UI 
 
 ## 🚀 Preview 
 
-![Screenshot](./public/localhost_5173_(Nest Hub).png)
----
+![UI Preview](./public/Project.png)---
 
 ## 📌 Features
 
