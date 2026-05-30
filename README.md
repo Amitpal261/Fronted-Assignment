@@ -2,11 +2,9 @@
 
 This project is a **pixel-perfect implementation** of a billing and checkout UI based on the provided Figma design.
 
-## 🚀 Live Demo
+## 🚀 Preview 
 
-(Optional) Add deployed link here:
-👉 https://your-live-link.com
-
+[Screenshot]!(./public/localhost_5173_(Nest Hub).png)
 ---
 
 ## 📌 Features
