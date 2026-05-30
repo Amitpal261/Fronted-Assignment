@@ -4,7 +4,7 @@ This project is a **pixel-perfect implementation** of a billing and checkout UI 
 
 ## 🚀 Preview 
 
-![UI Preview](./public/Project.png)---
+![UI Preview](public/Project.png)---
 
 ## 📌 Features
 
