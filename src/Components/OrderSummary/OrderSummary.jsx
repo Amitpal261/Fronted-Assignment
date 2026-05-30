@@ -27,7 +27,7 @@ export default function OrderSummary() {
        </div>
        <div className={styles.downCard}>
       {/* WALLET */}
-      <div className={styles.card}>
+      <div className={styles.card1}>
         <div className={styles.row}>
           <div className={styles.iconText}>
             <BsWallet2 />
